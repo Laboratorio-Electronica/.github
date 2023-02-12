@@ -2,7 +2,7 @@
 
 ### Technological tools
 
-![REACT](https://img.shields.io/badge/React-182043?style=for-the-badge&logo=react&logoColor=5dd3f3) ![SASS](https://img.shields.io/badge/SASS-bf6191?style=for-the-badge&logo=sass&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![Node js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00707d?style=for-the-badge&logo=arduino&logoColor=white)
+![REACT](https://img.shields.io/badge/React-182043?style=for-the-badge&logo=react&logoColor=5dd3f3) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![Node js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00707d?style=for-the-badge&logo=arduino&logoColor=white)
 
 ### Work pillars
 - 💻 Technology.
@@ -19,40 +19,27 @@
 ## Authors
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrlozMedina&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpsalamancao&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## Technology stack
-
-<img width="908" alt="image" src="https://user-images.githubusercontent.com/78941509/199633502-196aeadf-39fb-4125-b8f1-be486f063641.png">
 
 ## Repositories
 
-### Simulador de planta en ESP32
+### Codigo para el hardware
 
-`<link>` : <https://github.com/Tranformacion-Digital/Planta-ESP32>
+`<link>` : <https://github.com/Laboratorio-Electronica/ESP8266>
 
-![](https://img.shields.io/github/stars/Tranformacion-Digital/Planta-ESP32) ![](https://img.shields.io/github/forks/Tranformacion-Digital/Planta-ESP32) ![](https://img.shields.io/github/tag/Tranformacion-Digital/Planta-ESP32) ![](https://img.shields.io/github/release/Tranformacion-Digital/Planta-ESP32) ![](https://img.shields.io/github/issues/Tranformacion-Digital/Planta-ESP32)
+![](https://img.shields.io/github/stars/Laboratorio-Electronica/ESP8266) ![](https://img.shields.io/github/forks/Laboratorio-Electronica/ESP8266) ![](https://img.shields.io/github/tag/Laboratorio-Electronica/ESP8266) ![](https://img.shields.io/github/release/Laboratorio-Electronica/ESP8266) ![](https://img.shields.io/github/issues/Laboratorio-Electronica/ESP8266)
 
-### Simulador de planta en Codesys
+`<link>` : <https://github.com/Laboratorio-Electronica/TemperaturaHumedad-Hardware>
 
-`<link>` : <https://github.com/Tranformacion-Digital/Planta-PLC>
-
-![](https://img.shields.io/github/stars/Tranformacion-Digital/Planta-PLC) ![](https://img.shields.io/github/forks/Tranformacion-Digital/Planta-PLC) ![](https://img.shields.io/github/tag/Tranformacion-Digital/Planta-PLC) ![](https://img.shields.io/github/release/Tranformacion-Digital/Planta-PLC) ![](https://img.shields.io/github/issues/Tranformacion-Digital/Planta-PLC)
-
-### Gateway
-
-`<link>` : <https://github.com/Tranformacion-Digital/Gateway>
-
-![](https://img.shields.io/github/stars/Tranformacion-Digital/Gateway) ![](https://img.shields.io/github/forks/Tranformacion-Digital/Gateway) ![](https://img.shields.io/github/tag/Tranformacion-Digital/Gateway) ![](https://img.shields.io/github/release/Tranformacion-Digital/Gateway) ![](https://img.shields.io/github/issues/Tranformacion-Digital/Gateway)
+![](https://img.shields.io/github/stars/Laboratorio-Electronica/TemperaturaHumedad-Hardware) ![](https://img.shields.io/github/forks/Laboratorio-Electronica/TemperaturaHumedad-Hardware) ![](https://img.shields.io/github/tag/Laboratorio-Electronica/TemperaturaHumedad-Hardware) ![](https://img.shields.io/github/release/Laboratorio-Electronica/TemperaturaHumedad-Hardware) ![](https://img.shields.io/github/issues/Laboratorio-Electronica/TemperaturaHumedad-Hardware)
 
 ### Aplicativo web
 
-`<link>` : <https://github.com/Tranformacion-Digital/AplicativoWeb>
+`<link>` : <https://github.com/Laboratorio-Electronica/AplicativoWeb>
 
-![](https://img.shields.io/github/stars/Tranformacion-Digital/AplicativoWeb) ![](https://img.shields.io/github/forks/Tranformacion-Digital/AplicativoWeb) ![](https://img.shields.io/github/tag/Tranformacion-Digital/AplicativoWeb) ![](https://img.shields.io/github/release/Tranformacion-Digital/AplicativoWeb) ![](https://img.shields.io/github/issues/Tranformacion-Digital/AplicativoWeb)
+![](https://img.shields.io/github/stars/Laboratorio-Electronica/AplicativoWeb) ![](https://img.shields.io/github/forks/Laboratorio-Electronica/AplicativoWeb) ![](https://img.shields.io/github/tag/Laboratorio-Electronica/AplicativoWeb) ![](https://img.shields.io/github/release/Laboratorio-Electronica/AplicativoWeb) ![](https://img.shields.io/github/issues/Laboratorio-Electronica/AplicativoWeb)
 
 ### BackEnd
 
-`<link>` : <https://github.com/Tranformacion-Digital/RequestFactory>
+`<link>` : <https://github.com/Laboratorio-Electronica/Server-BackEnd>
 
-![](https://img.shields.io/github/stars/Tranformacion-Digital/RequestFactory) ![](https://img.shields.io/github/forks/Tranformacion-Digital/RequestFactory) ![](https://img.shields.io/github/tag/Tranformacion-Digital/RequestFactory) ![](https://img.shields.io/github/release/Tranformacion-Digital/RequestFactory) ![](https://img.shields.io/github/issues/Tranformacion-Digital/RequestFactory)
+![](https://img.shields.io/github/stars/Laboratorio-Electronica/Server-BackEnd) ![](https://img.shields.io/github/forks/Laboratorio-Electronica/Server-BackEnd) ![](https://img.shields.io/github/tag/Laboratorio-Electronica/Server-BackEnd) ![](https://img.shields.io/github/release/Laboratorio-Electronica/Server-BackEnd) ![](https://img.shields.io/github/issues/Laboratorio-Electronica/Server-BackEnd)
